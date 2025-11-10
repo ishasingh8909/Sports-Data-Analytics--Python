@@ -109,4 +109,4 @@ Skill in extracting actionable insights
 
 Data cleaning + visualization capabilities
 
-It is suitable for Data Analyst, Business Analyst, and Sports Analytics roles.
+
